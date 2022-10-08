@@ -11,11 +11,11 @@
 
 <br/>
 
-HacktoberFest Hello World in every language ever.
+HacktoberFest Contribution in every language ever can be pushed here.
 
 Just fork it and add a hello world to contribute for hacktober fest and send a Pull Request!
 
-### Get yourself free goodies by just writing a hello world!
+### Get yourself free goodies by just writing valuable code
 
 Say hi to the world in any language of your choice!
 
