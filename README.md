@@ -7,7 +7,7 @@
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr/gdscgcu/Learn-with-Hacktoberfest.svg)](https://github.com/gdscgcu/Learn-with-Hacktoberfest/pulls?q=is%3Aopen+is%3Apr)
 
 
-# Hacktoberfest Hello World
+# Hacktoberfest 2022
 
 <br/>
 
@@ -27,7 +27,7 @@ Hacktoberfest is a program by Digital Ocean and Github, where you can easily win
 
 ### 1. Register for Hacktoberfest
 
-###### https://hacktoberfest.digitalocean.com/
+###### https://hacktoberfest.com/
 
 ### 2. Fork it :fork_and_knife:
 
