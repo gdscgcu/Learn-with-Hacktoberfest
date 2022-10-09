@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: blueviolet;
+    background-color: cadetblue;
+    cursor: pointer;
+    text-align: center;
+    border: 5px solid navy;
+    text-decoration: dotted;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+li, a {
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+
+}
+
+p {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    padding: 3px;
+    margin: 4px;
+    color: cadetblue;
+    font-size: 14px;
+    text-align: center;
+    text-transform: lowercase;
+    margin-top: 30px;
+}
