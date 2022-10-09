@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://www.istockphoto.com/photo/pink-retro-toy-car-isolated-on-white-gm1386831709-444935852?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcar&utm_term=car%3A%3A%3A");
+    background-size: cover
+}
+
+h2, p {
+    color: white;
+    background-color: #AA4139;
+    text-align: center;
+    border: 5px solid purple;
+    cursor: pointer;
+    font-size: medium;
+}
+
+h2+p {
+    color: white;
+    background-color: #AA4139;
+    text-align: center;
+    border: 5px solid purple;
+    cursor: pointer;
+    font-size: medium;
+}
+
+.webtext {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 186, 0, 0.6);
+    font-size: medium;
+    font-weight: 300;
+    font-size: 13px;
+    padding: 2px;
+    margin: 3px;
+    text-align: center;
+}
+
+.webtext:first-child {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 0, 196, 0.6);
+    font-size: medium;
+    font-weight: 300;
+    font-size: 13px;
+    padding: 2px;
+    margin: 3px;
+    text-align: center;
+    border: 5px dashed green;
+}
+
+#webtext {
+    font-family:'Roboto', sans-serif;
+    color: rgba(255, 0, 255, 0.6);
+    font-size: medium;
+    font-weight: 300;
+    font-size: 13px;
+    padding: 2px;
+    margin: 3px;
+    text-align: center;
+}
+img{
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    alt:cat;
+    display: inline-block;
+}
+.Footer{
+    clear:both;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+}
+#webtext2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 156, 0.6);
+    font-size: medium;
+    font-weight: 300;
+    font-size: 13px;
+    padding: 2px;
+    margin: 3px;
+    text-align: center;
+    
+}
+
+li, a {
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px;
+    font-size: 29px;
+    margin: 5px;
+}
+
+button {
+    border-radius: 40%;
+    color: #5A5493;
+    background-color: aqua;
+    font-size: 15px;
+    padding: 3px;
+    margin: 5px;
+    font-weight: 300;
+    position: relative;
+}
+
+.text {
+    background: 5px dashed green;
+}
+
+.btn:hover {
+    background: crimson;
+}
