@@ -157,6 +157,11 @@ git clone https://github.com/your-username/Learn-with-Hacktoberfest.git
 
 
 
+## CONTRIBUTORS
+Amazing people who made their contributions for Hacktoberfest. Feel free to contribute, and get yourself featured here!
+
+<a href="https://github.com/gdscgcu/Learn-with-Hacktoberfest/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gdscgcu/Learn-with-Hacktoberfest"/>
 </a>
 
 # Hurray!! You just got closer to complete your hacktoberfest challenge.
