@@ -16,4 +16,3 @@ let duplicates=0;
         }
     }
     return duplicates;
-}
