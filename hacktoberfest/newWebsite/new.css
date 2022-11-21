@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: blue;
+    background-color: crimson;
+    text-align: center;
+    cursor: pointer;
+    border: 5px solid magenta;
+    text-decoration: dotted;
+}
+
+li, a {
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+    display: inline;
+    padding: 20px;
+    margin-top: 5px;
+}
+li,a:hover{
+    color: blue;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    font-size: 100%;
+    padding: 2px;
+    margin: 3px;
+    text-align: center;
+    color: blueviolet;
+    margin-top: 30px;
+    line-height: 20px;
+    font-style: italic;
+}
+
+#webtext {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 255, 156, 0.6);
+    font-size: medium;
+    font-weight: 300;
+    font-size: 13px;
+    padding: 2px;
+    margin: 3px;
+    text-align: center;
+}
+.Box-Model{
+    border: 5px solid mediumseagreen;
+    display: inline-block;
+    padding:5px 20px ;
+    margin: 0px 20px;
+    width: 100%;
+    height: 50%;
+}
